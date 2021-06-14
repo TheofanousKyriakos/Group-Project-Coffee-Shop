@@ -1,0 +1,8 @@
+database is on a remote server
+url: 'mysql://newRoot:Maria1060@@ra1.anystream.eu:1060/CoffeeShop',
+https://github.com/Fanoyrios10/JS_PeopleCert_Group_Project
+cd cofeeshop
+npm i 
+sails lift η  nodemon sails lift
+αν δεν υπαρχουν στη βαση εγγραφες http://localhost:1337/demo/populate 
+admin acc  email:f@1.com pass:1234 	
